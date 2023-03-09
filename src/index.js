@@ -10,7 +10,7 @@ export default function Aplica()
   return
   (
     <>
-    <p>Testeeeeee</p>
+    <p>Testeeeeeee</p>
     </>
   )
 }
