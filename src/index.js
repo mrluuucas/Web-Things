@@ -5,11 +5,12 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 //Function app
-functionApp()
+export default function Aplica()
 {
   return
   (
     <>
+    <p>Testeeeeee</p>
     </>
   )
 }
